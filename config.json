@@ -1,0 +1,22 @@
+{
+  "MongoConnectionURL": "mongodb+srv://Max:Max2020aa@cluster0.aur6y4b.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+  "UpgradesEnabled": false,
+  "ClubWarsEnabled": false,
+  "StarPoints": 5000,
+  "Tickets": 7000,
+  "Gold": 10000,
+  "Gems": 100,
+  "Trophies": 0,
+  "ExperiencePoints": 999999,
+  "BrawlBoxTokens": 99999,
+  "BigBoxTokens": 99999,
+  "Region": "RO",
+  "ThemeID": 0,
+  "ContentCreatorCodes": ["modern brawl"],
+  "BannedIPs": [],
+  "Maintenance": false,
+  "SecondsTillMaintenanceOver": 3600,
+  "Patch": false,
+  "PatchURL": "http://192.168.0.103:8080/",
+  "UpdateURL": ""
+}
